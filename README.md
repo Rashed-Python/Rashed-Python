@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Rashed-Python
+- 👀 I’m interested in Python programing and ai development
+- 🌱 I’m currently learning python 
+- 📫 How to reach me Rashed.PythonDev@gmail.com
